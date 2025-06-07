@@ -1,6 +1,8 @@
 # Prerequisites
 # Testing soda uhuy ke dua 
 # HRUSNYA INI YANG DI INCOMING
+
+# AKU PUNYA MAINAN
 - JDK 17 or 21
 - Maven 3.9
 - MySQL 8
