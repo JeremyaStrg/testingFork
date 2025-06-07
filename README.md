@@ -2,7 +2,7 @@
 # Testing soda uhuy ke dua 
 # HRUSNYA INI YANG DI INCOMING
 
-# AKU PUNYA MAINAN
+# AKU PUNYA BANYAK MAINAN
 - JDK 17 or 21
 - Maven 3.9
 - MySQL 8
