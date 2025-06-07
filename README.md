@@ -1,5 +1,6 @@
 # Prerequisites
-# Testing soda uhuy ke dua
+# Testing soda uhuy ke dua 
+# HRUSNYA INI YANG DI INCOMING
 - JDK 17 or 21
 - Maven 3.9
 - MySQL 8
