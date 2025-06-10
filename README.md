@@ -1,6 +1,7 @@
 # Prerequisites
 # Testing soda uhuy ke dua 
 # ini ku hapus
+# ini testing tags
 
 # ini ku hapus
 - JDK 17 or 21
